@@ -1,5 +1,7 @@
 # testng-browserstack-extentreports-notifications
 
+[![Build status](https://dev.azure.com/madhav0846/trial/_apis/build/status/trial-Maven-CI)](https://dev.azure.com/madhav0846/trial/_build/latest?definitionId=-1)
+
 ###### ("notifications" is TBD)
 [TestNG](http://testng.org) Integration with BrowserStack.
 
